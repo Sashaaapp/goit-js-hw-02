@@ -1,2 +1,2 @@
-# goit-js-hw-02-1
+# goit-js-hw-02
  
